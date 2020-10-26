@@ -1,0 +1,291 @@
+body {
+	background: url(../images/b2.png) no-repeat;background-size: 100%;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+
+a {
+	outline: none;
+}
+img {
+	border: 0;
+}
+p {
+	line-height: 24px;
+	margin: 0; 
+}
+p a,
+#body div h2 a,
+#body div div#home div.news h4 a,
+#body div #newsblog ul li div h3 a,
+#body div #surfbase h3 a {
+	color: black;
+}
+p a:hover,
+#body div h2 a:hover,
+#body div div#home div.news h4 a:hover,
+#body div #newsblog ul li div h3 a:hover,
+#body div #surfbase h3 a:hover,
+p a.more:hover {
+	color: #ffc000;
+}
+p a.more {
+	color: black;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+#header a img,
+#body div #about div div.figure img,
+#body div #contact div form label {
+	display: block;
+	
+}
+body {
+	background: url(../images/b2.png) no-repeat;background-size: 100%;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+
+a {
+	outline: none;
+}
+img {
+	border: 0;
+}
+p {
+	line-height: 24px;
+	margin: 0; 
+}
+p a,
+#body div h2 a,
+#body div div#home div.news h4 a,
+#body div #newsblog ul li div h3 a,
+#body div #surfbase h3 a {
+	color: black;
+}
+p a:hover,
+#body div h2 a:hover,
+#body div div#home div.news h4 a:hover,
+#body div #newsblog ul li div h3 a:hover,
+#body div #surfbase h3 a:hover,
+p a.more:hover {
+	color: #ffc000;
+}
+p a.more {
+	color: black;
+	font-size: 12px;
+	text-decoration: none;
+}
+#header {
+	height: 147px;
+	margin: 0 auto;
+	padding: 39px 10px 0;
+	width: 940px;
+}
+#header a.logo img{
+	border:0;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#header a img,
+#body div #about div div.figure img,
+#body div #contact div form label {
+	display: block;
+	
+}
+body {
+	background: url(../images/b2.png) no-repeat;background-size: 100%;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+
+a {
+	outline: none;
+}
+img {
+	border: 0;
+}
+p {
+	line-height: 24px;
+	margin: 0; 
+}
+p a,
+#body div h2 a,
+#body div div#home div.news h4 a,
+#body div #newsblog ul li div h3 a,
+#body div #surfbase h3 a {
+	color: black;
+}
+p a:hover,
+#body div h2 a:hover,
+#body div div#home div.news h4 a:hover,
+#body div #newsblog ul li div h3 a:hover,
+#body div #surfbase h3 a:hover,
+p a.more:hover {
+	color: #ffc000;
+}
+p a.more {
+	color: #0f0f0f;
+	font-size: 12px;
+	text-decoration: none;
+}
+#header {
+	height: 77px;
+	margin: 0 auto;
+	padding: 39px 10px 0;
+	width: 49px;
+}
+#header a.logo img{
+	border:0;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#header a img,
+#body div #about div div.figure img,
+#body div #contact div form label {
+	display: block;
+	
+}
+#body {
+	background: url(../images/b2.png) repeat;background-size: 100%;
+}
+#body > div {
+	background: url(../images/b2.png) repeat;background-size: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 47px 10px;
+	width: 940px;
+}
+#body div #navigation {
+	font-family: 'arvobold';
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#body div #navigation li a {
+	color: #121213;
+	display: inline-block;
+	height: 60px;
+	line-height: 64px;
+	padding: 0 25px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#body div #navigation li a.link1 {
+	background: #02164d;
+}
+#body div #navigation li a.link2 {
+	background: #001f64;
+}
+#body div #navigation li.current a {
+	background: black;
+	color: #02164d;
+}
+#body div #navigation li.current a:hover {
+	color: #02164d;
+}
+#body div #navigation li a:hover {
+	color: #fff799;
+}
+#body div div#home,
+#body div div#surfbase,
+#body div div#newsblog,
+#body div div#about,
+#body div div#contact {
+	float: right;
+	width: 700px;
+}
+#body div #contact h2 {
+	line-height: none;
+	margin: -5px 0 0;
+	padding: 0 0 30px;
+}
+#body div #contact div div {
+	float: left;
+	padding: 49px 0 0;
+	width: 300px;
+}
+#body div #contact div div ul {
+	list-style: none;
+	margin: 0;
+	padding: 11px 0 0;
+}
+#body div #contact div div ul li {
+	border-top: 1px solid #eff0f3;
+	padding: 13px 0;
+}
+#body div #contact div div ul li span {
+	display: block;
+	font-family: 'arvoregular';
+	line-height: 24px;
+	text-transform: uppercase;
+}
+#body div #contact div div ul li:first-child {
+	border: none;
+}
+#body div #contact div form {
+	background: url(../images/b2.jpg) no-repeat;background-size: 100%;
+	float: left;
+	margin: 50px 0 0;
+	padding: 20px;
+	width: 340px;
+}
+#body div #contact div form label input {
+	border: none;
+	color: #2e2b2b;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 35px;
+	line-height: 35px;
+	margin: 10px 0;
+	width: 340px;
+}
+#body div #contact div form label textarea {
+	border: none;
+	color: #2e2b2b;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 275px;
+	margin: 10px 0;
+	overflow: auto;
+	resize: none;
+	width: 340px;
+}
+#body div #contact div form h3 {
+	padding: 0 0 25px;
+}
+#body div #contact div form input.send {
+	background: rgb(248, 246, 246);
+	border: none;
+	border-radius: 3px;
+	color: #50677c;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+	height: 25px;
+	margin: 5px 0 0;
+	padding: 0 0 1px;
+	width: 60px;
+}
+#body div #contact div form input.send:hover {
+	background: #fff799;
+	color: #dadbdd;}
